@@ -307,4 +307,4 @@ upstream, see 'push.autoSetupRemote' in 'git help config'.
 
    这会将本地的分支删除，并从远程仓库中删除同名的分支。
 
-执行完这两个命令后，你就成功地在本地和远程仓库中同时删除了指定的分支。
+
