@@ -1,6 +1,6 @@
 # GitHub使用教程
 
-## github中常见的命令或者界面选项解释记录
+## github中常见的命令 及解释
 
 ### blame
 
@@ -306,5 +306,3 @@ upstream, see 'push.autoSetupRemote' in 'git help config'.
    ```
 
    这会将本地的分支删除，并从远程仓库中删除同名的分支。
-
-
